@@ -11,7 +11,7 @@
   <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <meta property="og:image" content="{{ '/assets/images/darrilla-mascot.png' | absolute_url }}">
+  <meta property="og:image" content="{{ page.image | default: '/assets/images/darrilla-mascot.png' | absolute_url }}">
   <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
 </head>
@@ -25,6 +25,7 @@
     <nav aria-label="Main navigation">
       <a href="{{ '/chess-clock/' | relative_url }}"{% if page.url contains '/chess-clock/' %} class="active"{% endif %}>Chess Clock</a>
       <a href="{{ '/arrowzilla/' | relative_url }}"{% if page.url contains '/arrowzilla/' %} class="active"{% endif %}>ArrowZilla</a>
+      <a href="{{ '/fuzzrilla/' | relative_url }}"{% if page.url contains '/fuzzrilla/' %} class="active"{% endif %}>FuzzRilla</a>
       <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
     </nav>
   </header>
@@ -42,6 +43,7 @@
     <div><strong>Darrilla Software</strong><p>A little character. A good game.</p><small>© {{ site.time | date: '%Y' }} Darrilla Software</small></div>
     <div><strong>Chess Clock</strong><a href="{{ '/chess-clock/' | relative_url }}">Overview</a><a href="{{ '/chess-clock/support/' | relative_url }}">Support</a><a href="{{ '/chess-clock/privacy/' | relative_url }}">Privacy</a></div>
     <div><strong>ArrowZilla</strong><a href="{{ '/arrowzilla/' | relative_url }}">Overview</a><a href="{{ '/arrowzilla/support/' | relative_url }}">Support</a><a href="{{ '/arrowzilla/privacy/' | relative_url }}">Privacy</a></div>
+    <div><strong>FuzzRilla</strong><a href="{{ '/fuzzrilla/' | relative_url }}">Overview</a><a href="{{ '/fuzzrilla/support/' | relative_url }}">Support</a><a href="{{ '/fuzzrilla/privacy/' | relative_url }}">Privacy</a></div>
     <div><strong>Say hello</strong><a href="{{ '/about/' | relative_url }}">About Darrilla</a><a href="mailto:darrilla@gmail.com">darrilla@gmail.com</a></div>
   </footer>
 </body>
