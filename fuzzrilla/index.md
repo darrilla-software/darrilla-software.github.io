@@ -22,7 +22,7 @@ the pop rising in pitch as a chain grows.
 
 ## A jungle chapter to beat
 
-The current Android development build has **ten designed levels**. Each has
+The current beta has **forty designed levels** on Android and iPhone/iPad. Each has
 its own starting board, collection targets and move budget. Collect the
 pictured Rillas before your moves run out.
 
@@ -33,7 +33,13 @@ pictured Rillas before your moves run out.
 
 There are no Hint or manual Shuffle buttons. If the board has no legal moves,
 the game announces a rearrangement of the same crew, without adding moves or
-collection credit. Level ten finishes the chapter, with the option to replay.
+collection credit. Levels 21–30 teach Chest Pound drums and overgrown ground;
+31–40 combine these mechanics. Clear a Rilla on a leafy space to remove the
+patch. Sliding through it is allowed and does not clear it. A drum clears its
+marked row or column when its Rilla matches again. Level 40 finishes the chapter.
+
+Winning earns **500 bonus points per unused move**. Each target Rilla collected
+above quota earns another **100 points**, on top of match and chain points.
 
 ## Seven faces. Seven personalities.
 
@@ -55,17 +61,18 @@ tap a character's large picture to see its animation.
 
 There is no timer. A softly moving forest sits above the board, with a Calm
 motion setting to stop the wind and reduce effects. Choose Light, Dark or
-Follow phone; the artwork keeps its brightness in either theme. Progress and
+Follow phone on Android; iPhone/iPad currently use the explicit Light/Dark
+choice. The artwork keeps its brightness in either theme. Progress and
 settings are saved on your device, and gameplay works offline.
 
 ## Follow FuzzRilla
 
-FuzzRilla is in development for Android. It is **not yet available as a public
+FuzzRilla is in beta testing for Android and iPhone/iPad. It is **not yet available as a public
 Google Play or App Store download**. This page describes the current development
-build; features and level balance may change as testing continues.
+beta; features and level balance may change as testing continues.
 
-More levels, earned powers and new objectives are being planned. They are not
-part of the current ten-level chapter, and no release date is announced.
+The initial beta includes forty levels, drums and overgrown-ground objectives.
+Testing is by invitation; a public release date has not been announced.
 
 Questions, testing interest or feedback?
 [Email Darrilla](mailto:darrilla@gmail.com?subject=FuzzRilla).

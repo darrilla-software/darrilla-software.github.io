@@ -8,7 +8,7 @@ image: /assets/images/fuzzrilla-icon.webp
 Last updated: October 23, 2026
 
 FuzzRilla is a puzzle game made by Darrilla Software. This policy describes
-the current Android development build, version **0.2.1**.
+the current Android and iPhone/iPad beta builds, version **0.4.3**.
 
 ## Playing the game
 
@@ -20,10 +20,27 @@ The current build has no advertising, in-app purchases or analytics SDKs.
 Unity's connected analytics, advertising and cloud diagnostic services are
 disabled in the project.
 
+## Children and families
+
+FuzzRilla is intended for all ages, including children. The current game has no
+accounts, advertising, purchases, chat, user uploads or analytics. It does not
+know a player's age or request personal information from children. Parents can
+contact us using the address below about information sent directly to support.
+
+## Beta testing
+
+Apple TestFlight and Google Play manage beta invitations, app distribution and
+their own platform services. They may process tester accounts, installation,
+usage or diagnostic information under their own terms and privacy policies.
+If you choose to send beta feedback or crash reports through those services,
+Darrilla Software may receive that information to investigate problems.
+This is separate from the offline game and its local progress storage.
+
 ## Data stored on your device
 
 The game stores your current level, board arrangement, collection totals,
-moves, score and refill state locally so you can resume a settled turn.
+moves, score, drums, overgrown spaces and refill state locally so you can resume
+a settled turn.
 Sound, motion and appearance preferences are also stored locally. Saves and
 best scores from the earlier endless prototype are retained separately on
 upgrade; they are not uploaded to Darrilla Software.

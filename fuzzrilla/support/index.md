@@ -5,13 +5,13 @@ description: How to slide the crew, complete collection goals, and send FuzzRill
 image: /assets/images/fuzzrilla-icon.webp
 ---
 
-FuzzRilla is in development. This page describes Android development version
-**0.2.1**, with ten jungle levels.
+FuzzRilla is in beta testing. This page describes Android and iPhone/iPad version
+**0.4.3**, with forty jungle levels.
 
 ## Contact Darrilla
 
 Email [darrilla@gmail.com](mailto:darrilla@gmail.com?subject=FuzzRilla%20support)
-with questions, bug reports or feedback. Include your device model, Android
+with questions, bug reports or feedback. Include your device model, operating-system
 version, game version, level number and what happened. A screenshot or short
 recording can help; leave out private information.
 
@@ -38,9 +38,7 @@ A slide that makes no match returns without spending a move. Complete the
 goals during the last move's cascade and you still win. If any goal remains
 when that turn ends and no moves remain, the game offers Retry.
 
-Version 0.2.1 doubled the earlier move allowances to **6–28 moves**, depending
-on the level. An existing attempt keeps its progress and receives the larger
-allowance when resumed.
+Move budgets range from 8 to 30. All levels from 21 onward allow 30 moves.
 
 ## Where are Hint and Shuffle?
 
@@ -55,10 +53,30 @@ Retry restarts the current level with its full move allowance and empty
 collection counts. It uses the same starting board and refill sequence, so you
 can try a different approach. During play, Retry asks for confirmation first.
 
-## What happens after level ten?
+## What are drums and overgrown ground?
+
+Starting at level 21, a player-made match of five or more can create a drum.
+A row slide places it at the leftmost matched space on that row; a column slide
+places it at the topmost matched space on that column. A gold outline shows the
+spot before the drum falls with its Rilla. Match that Rilla again to activate it:
+↔ clears its current row, and ↕ clears its current column. Drums hit also activate.
+
+The **Ground** goal asks you to clear particular overgrown spaces. Match the
+Rilla standing on a leafy patch, or hit that space with a drum. Plants stay on
+their spaces when Rillas move. They do not block slides, and sliding through
+alone does not clear them. Lessons 21–30 teach these rules; 31–40 combine them.
+
+## Why does the result include bonuses?
+
+Finishing early earns 500 points per unused move. Each target Rilla above quota
+earns another 100 points, including extras in the final cascade. These bonuses
+are added to match/chain points. Goals retain actual totals such as 7/4; results
+show the breakdown. A loss receives no unused-move bonus.
+
+## What happens after level 40?
 
 The game shows **Chapter complete**. You can replay the final level or start
-the chapter again. Level eleven and later content are not in this build.
+the chapter again. Existing level-20 completions continue into level 21.
 
 ## Where is my progress saved?
 
@@ -75,7 +93,8 @@ scores are retained separately when upgrading; they do not become campaign progr
 
 Open **?** for settings. **Calm motion** stops the forest sway and reduces match
 effects. Choose **Light**, **Dark** or **Follow phone** for the interface;
-the forest and character artwork keep their normal brightness. Sound can be
+the forest and character artwork keep their normal brightness. Follow phone
+currently reads Android system appearance; use Light/Dark on iPhone/iPad. Sound can be
 turned off there too.
 
 Board characters stay still until matching. In **Meet the Crew**, select a
