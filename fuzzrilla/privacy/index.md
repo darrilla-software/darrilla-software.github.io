@@ -5,10 +5,10 @@ description: How the current FuzzRilla development build handles local progress 
 image: /assets/images/fuzzrilla-icon.webp
 ---
 
-Last updated: October 23, 2026
+Last updated: October 25, 2026
 
 FuzzRilla is a puzzle game made by Darrilla Software. This policy describes
-the current Android and iPhone/iPad beta builds, version **0.4.3**.
+the current Android and iPhone/iPad beta builds, version **0.4.6 (17)**.
 
 ## Playing the game
 
@@ -39,8 +39,9 @@ This is separate from the offline game and its local progress storage.
 ## Data stored on your device
 
 The game stores your current level, board arrangement, collection totals,
-moves, score, drums, overgrown spaces and refill state locally so you can resume
-a settled turn.
+moves, score, powers, frozen Rillas, overgrown spaces and refill state locally
+so you can resume a settled turn. It also stores per-level best scores and
+lifetime collection, move, chain, power and ground-clearing statistics locally.
 Sound, motion and appearance preferences are also stored locally. Saves and
 best scores from the earlier endless prototype are retained separately on
 upgrade; they are not uploaded to Darrilla Software.

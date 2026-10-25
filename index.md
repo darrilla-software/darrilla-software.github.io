@@ -29,8 +29,8 @@ home: true
       <div class="card-copy"><p class="eyebrow">Discover the picture underneath</p><h3>ArrowZilla</h3><p>Find a clear path, send the arrows flying, and uncover the artwork underneath. Every move reveals a little more.</p><a class="text-link" href="/arrowzilla/">Explore ArrowZilla <span aria-hidden="true">→</span></a><p class="card-meta">Arrow puzzles · Picture reveal</p></div>
     </article>
     <article class="game-card">
-      <div class="game-art fuzzrilla-art"><img src="/assets/images/fuzzrilla-icon.webp" alt="Sunny, the smiling golden gorilla from FuzzRilla" width="512" height="512" loading="lazy"><span class="status">In development</span></div>
-      <div class="card-copy"><p class="eyebrow">Bring the crew together</p><h3>FuzzRilla</h3><p>Slide rows and columns, collect your Rillas, and set off chest-beating chains. Seven personalities. A jungle chapter to beat.</p><a class="text-link" href="/fuzzrilla/">Explore FuzzRilla <span aria-hidden="true">→</span></a><p class="card-meta">Sliding match puzzles · Android in development</p></div>
+      <div class="game-art fuzzrilla-art"><img src="/assets/images/fuzzrilla-icon.webp" alt="Sunny, the smiling golden gorilla from FuzzRilla" width="512" height="512" loading="lazy"><span class="status">Beta testing</span></div>
+      <div class="card-copy"><p class="eyebrow">Bring the crew together</p><h3>FuzzRilla</h3><p>Slide rows and columns, collect your Rillas, and set off chest-beating chains. Seven personalities. 100 jungle levels with drums, ice and Lightning.</p><a class="text-link" href="/fuzzrilla/">Explore FuzzRilla <span aria-hidden="true">→</span></a><p class="card-meta">Sliding match puzzles · Android &amp; iPhone/iPad beta</p></div>
     </article>
   </div>
 </section>

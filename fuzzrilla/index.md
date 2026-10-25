@@ -6,7 +6,7 @@ image: /assets/images/fuzzrilla-icon.webp
 ---
 
 <div class="product-intro">
-  <div><span class="status">In development</span><h2>Little gorillas.<br>Big ruckus.</h2><p>Slide a whole row or column to bring matching Rillas together. Chase collection goals, set off chest-beating chain reactions, and make every move count.</p><a class="text-link" href="/fuzzrilla/support/">How to play <span aria-hidden="true">→</span></a></div>
+  <div><span class="status">Beta testing</span><h2>Little gorillas.<br>Big ruckus.</h2><p>Slide a whole row or column to bring matching Rillas together. Chase collection goals, set off chest-beating chain reactions, and make every move count.</p><a class="text-link" href="/fuzzrilla/support/">How to play <span aria-hidden="true">→</span></a></div>
   <img src="/assets/images/fuzzrilla-icon.webp" alt="Sunny, a grinning golden gorilla with a sunburst tuft, in FuzzRilla artwork" width="512" height="512">
 </div>
 
@@ -22,7 +22,7 @@ the pop rising in pitch as a chain grows.
 
 ## A jungle chapter to beat
 
-The current beta has **forty designed levels** on Android and iPhone/iPad. Each has
+The current beta has **100 designed levels** on Android and iPhone/iPad. Each has
 its own starting board, collection targets and move budget. Collect the
 pictured Rillas before your moves run out.
 
@@ -33,10 +33,25 @@ pictured Rillas before your moves run out.
 
 There are no Hint or manual Shuffle buttons. If the board has no legal moves,
 the game announces a rearrangement of the same crew, without adding moves or
-collection credit. Levels 21–30 teach Chest Pound drums and overgrown ground;
-31–40 combine these mechanics. Clear a Rilla on a leafy space to remove the
-patch. Sliding through it is allowed and does not clear it. A drum clears its
-marked row or column when its Rilla matches again. Level 40 finishes the chapter.
+collection credit.
+
+The campaign teaches and combines its mechanics in level bands:
+
+- **1–10:** matching and collection.
+- **11–20:** directional Chest Pound drums.
+- **21–30:** leafy ground to clear.
+- **31–40:** Double Chest Pound, clearing a row and column together.
+- **41–50:** Rilla Boom, clearing a surrounding 3×3 area.
+- **51–70:** Frozen Rillas and combined challenges.
+- **71–80:** wider 8×8 boards.
+- **81–90:** Rilla Lightning, hitting one character type across the board.
+- **91–100:** combined jungle capstones.
+
+Powers are helpful, but creating or using them is **never required to win**.
+Collect the pictured crew, clear every leafy patch and free every frozen Rilla.
+Ice wraps around trapped Rillas and locks both their row and column until freed.
+Earlier levels keep their 6×6 boards; the larger puzzles use the same sliding controls.
+Level 100 finishes the chapter.
 
 Winning earns **500 bonus points per unused move**. Each target Rilla collected
 above quota earns another **100 points**, on top of match and chain points.
@@ -71,8 +86,9 @@ FuzzRilla is in beta testing for Android and iPhone/iPad. It is **not yet availa
 Google Play or App Store download**. This page describes the current development
 beta; features and level balance may change as testing continues.
 
-The initial beta includes forty levels, drums and overgrown-ground objectives.
-Testing is by invitation; a public release date has not been announced.
+The 100-level tester update is **0.4.6 (17)**. Store processing and review can
+delay its arrival for invited testers. Testing is by invitation; a public release
+date has not been announced.
 
 Questions, testing interest or feedback?
 [Email Darrilla](mailto:darrilla@gmail.com?subject=FuzzRilla).

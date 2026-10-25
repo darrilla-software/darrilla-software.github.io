@@ -31,8 +31,10 @@ optimized for size; the app repositories remain the source for the originals.
 The ArrowZilla illustrations are labeled as artwork rather than screenshots.
 FuzzRilla's optimized icon and crew sheet come from `games/fuzzrilla/` in the
 `darrilla-games` repository. The sheet is labeled as character artwork, not a
-gameplay screenshot. Its pages describe Android development build 0.2.1: ten
-finite collection levels, no ads/purchases/analytics, and no public store download.
+gameplay screenshot. Its pages describe Android and iPhone/iPad tester update
+0.4.6 (17): 100 finite levels, directional/double drums, Boom, anchored ice, 8×8 boards and Lightning.
+The game has no ads/purchases/analytics and no public store download. Tester
+availability depends on store processing/review.
 
 ArrowZilla links to its Google Play closed test and labels the public iOS listing
 as awaiting approval. Update availability when Apple approves the release.
