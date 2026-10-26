@@ -4,11 +4,13 @@ category: ArrowZilla
 description: How ArrowZilla handles progress, advertising, purchases, and privacy choices.
 ---
 
-Last updated: October 14, 2026
+Last updated: October 25, 2026
 
 ArrowZilla is an arrow puzzle game made by Darrilla Software. This policy
-describes versions 1.0 and 1.1 and their development builds. Development builds use test
-ads; store builds use the advertising and purchase services described below.
+describes the current game and tester builds. Local installs, Google Play
+internal/closed testing and TestFlight builds use Google demo/test ad units,
+including release-mode tester builds. Testing does not itself disable the SDK
+or its network requests. The advertising and purchase services are described below.
 
 ## Information the game collects
 
@@ -21,8 +23,9 @@ process information as described below.
 The game stores the selected level, unlocked levels, completion records, and
 last and best star ratings locally on your device. These records support
 resuming and replaying your puzzles. They are not sent to a Darrilla server,
-and the game does not provide account-based cloud sync. Your selected age group
-is also saved only on your device; it is not sent to a Darrilla server.
+and the game does not provide account-based cloud sync. Daily attempts, streaks,
+reward banks and sound/display preferences are also stored locally. Your selected
+age group is also saved only on your device; it is not sent to a Darrilla server.
 
 Removing the app or clearing its data can remove this local progress.
 
@@ -35,10 +38,10 @@ identifiers, interactions such as ad views and taps, and diagnostic information.
 Google uses this information to provide and measure advertising, analyze
 performance, and prevent fraud. Available identifiers and ad personalization
 depend on the game's child-directed configuration, your device settings, and
-applicable regional rules. Versions 1.0 and 1.1 apply child-directed ad treatment and
-Google's G maximum ad-content rating for every player. It does not request
-personalized advertising, and the child-directed setting disables advertising
-ID collection by Google's ad SDK.
+applicable regional rules. Current builds apply child-directed treatment and
+Google's G maximum ad-content rating for every player. They do not request personalized advertising. SDK
+configuration and platform settings affect which identifiers are available;
+using test ads is not a promise that the SDK processes no information.
 
 Read [Google's privacy policy](https://policies.google.com/privacy) and
 [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
@@ -51,7 +54,7 @@ diagnostics are separate from those Unity services.
 
 The game checks Google's User Messaging Platform before requesting ads and
 shows Privacy choices in Settings when Google requires that entry point.
-Versions 1.0 and 1.1 apply under-age consent treatment to every player, so Google's
+Current builds apply under-age consent treatment to every player, so Google's
 consent request may not present the adult consent forms. Ad requests proceed
 only when Google's consent system permits them.
 
@@ -62,8 +65,8 @@ controls. On iOS, tracking permission is controlled in Settings under Privacy
 
 ## Purchases
 
-ArrowZilla includes a one-time purchase option priced at US $2.99 (local prices
-may vary). It removes automatic ads
+ArrowZilla includes a one-time ad-removal purchase where available. The store
+shows the current localized price before confirmation. It removes automatic ads
 between levels. Optional rewarded ads remain available if you choose to watch
 them; the purchase does not disable those ads or their associated data handling.
 
@@ -71,6 +74,14 @@ Apple or Google processes payment information. Darrilla Software does not
 receive your card details. The game and its purchasing SDK process purchase
 records to unlock, verify, and restore the ad-removal entitlement. Purchase
 availability and refunds depend on the relevant app store.
+
+## Closed testing and platform reports
+
+[Google Play closed testing](https://play.google.com/apps/testing/com.darrilla.arrowzilla)
+requires an eligible Google account. Google Play and TestFlight manage enrollment,
+distribution and their own installation or diagnostic information. Feedback or
+crash reports you choose to send through a testing platform may reach Darrilla
+Software for investigation. This is separate from local puzzle progress.
 
 ## Support messages
 
@@ -92,11 +103,18 @@ you have sent directly to Darrilla Software.
 ArrowZilla is intended for children and older players. A neutral age-group
 screen appears before advertising starts. The game does not request a name,
 exact date of birth, or contact information to play, and the selected age group
-stays on the device. Versions 1.0 and 1.1 use the same child-directed, non-personalized
+stays on the device. Current builds use the same child-directed, non-personalized
 ad settings for every age group.
 
 If you believe a child has sent personal information directly to us, contact
 us so we can address it.
+
+## This website
+
+These pages do not add an analytics tracker. GitHub Pages hosts the website and
+logs visitor IP addresses for security purposes. See
+[GitHub's Pages data-collection information](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection)
+and [privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 ## Future versions
 
