@@ -15,9 +15,9 @@ An arrow can leave only when its exit is clear. Another arrow's head or tail may
 in the way, so the order matters. Open a path, clear a few more arrows, and
 watch the board change.
 
-ArrowZilla has 520 levels, including 86 picture puzzles with square and winding
-paths. Animals, objects, and places emerge as you solve. Beyond the collection,
-keep playing with fresh generated puzzles.
+Explore hundreds of campaign puzzles, mixing generated grid boards with
+picture reveals. Animals, objects and places emerge as you solve. The catalogue
+continues to grow, with harder boards and new pictures added in tester updates.
 
 ## Take a closer look
 
@@ -26,8 +26,12 @@ keep playing with fresh generated puzzles.
 - **Pinch to zoom** and use two fingers to pan around a busy board.
 - **Use Zap** to clear all currently free arrows.
 - **Replay for stars** and try to finish with fewer blocked attempts.
+- **Open Daily** for four linked challenges, with timed and three-heart attempts,
+  saved daily progress and rewards for finishing the full set.
 
-Progress and completed-level ratings are saved on your device.
+Progress and completed-level ratings are saved on your device. Grid and picture
+puzzles have difficulty labels, with special timed or three-heart challenges
+later in the campaign. Daily progress stays separate from your regular journey.
 
 ## From lines to a little personality
 
@@ -47,14 +51,13 @@ follow the Google Play download link. If you are already an internal tester,
 leave the internal test before joining this closed test. Ask us to add your
 Google account if the page says you are not eligible.
 
-**iPhone and iPad:** The app is available to invited testers through TestFlight.
-Our public release is awaiting Apple review.
-[App Store listing](https://apps.apple.com/app/id6822070842) — downloads will
-become available after approval.
+**iPhone and iPad:** invited testers use TestFlight. Contact us about an
+invitation; we are not advertising a public iOS download here.
 
-Android testers help us qualify for release by staying opted in for at least
-14 continuous days and playing regularly. Please send feedback on the puzzles,
-controls, ads, and any problems you find.
+The closed test contains pre-release updates. Testers use Google demo ads,
+including rewarded-ad flows, rather than live advertising. Help us find confusing
+puzzles, touch issues and interruption or reward problems. See the
+[testing guide](/testing/) for account troubleshooting and feedback tips.
 
 Questions or feedback? [Email Darrilla](mailto:darrilla@gmail.com?subject=ArrowZilla).
 
