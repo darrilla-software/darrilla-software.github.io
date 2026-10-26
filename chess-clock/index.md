@@ -42,6 +42,14 @@ play. Check your setup before a timed match.
 The Darrilla Software mascot greets you when you open the app. Tap to skip
 the intro and head straight to the clock. [Meet the mascot](/about/#our-welcome).
 
+## Try the next Android update
+
+[Join the Google Play closed test](https://play.google.com/apps/testing/com.dburns.chess_clock)
+using the Google account invited to Chess Clock testing, then follow Google's
+install/update link. The public app links above remain separate from this beta.
+See [testing access and feedback](/testing/) if your account is not eligible.
+Test timing, sound and interruption handling before using a test build for a match.
+
 ## Help with your clock
 
 [Support and common questions](/chess-clock/support/) ·
