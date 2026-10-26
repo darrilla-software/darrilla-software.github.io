@@ -33,8 +33,8 @@ home: true
       <div class="card-copy"><p class="eyebrow">Bring the crew together</p><h3>FuzzRilla</h3><p>Slide rows and columns, collect your Rillas, and set off chest-beating chains. Seven personalities. 100 jungle levels with drums, ice and Lightning.</p><a class="text-link" href="/fuzzrilla/">Explore FuzzRilla <span aria-hidden="true">→</span></a><p><a href="https://play.google.com/apps/testing/com.darrilla.fuzzrilla">Join the Android closed test</a></p><p class="card-meta">Sliding match puzzles · Android &amp; iPhone/iPad beta</p></div>
     </article>
     <article class="game-card">
-      <div class="game-art monkeyrilla-art"><img src="/assets/images/monkeyrilla-icon.png" alt="MonkeyRilla app icon: Baby Monkey holding a banana in the jungle" width="1254" height="1254" loading="lazy"><span class="status">In development</span></div>
-      <div class="card-copy"><p class="eyebrow">A timely helping hand</p><h3>MonkeyRilla</h3><p>Roam a wide jungle, collect bananas and call on Fast, Climber or Ninja. Forty seasonal stages are taking shape in our newest development playtest.</p><a class="text-link" href="/monkeyrilla/">Explore MonkeyRilla <span aria-hidden="true">→</span></a><p class="card-meta">Jungle gathering · Store release in preparation</p></div>
+      <div class="game-art monkeyrilla-art"><img src="/assets/images/monkeyrilla-icon.png" alt="MonkeyRilla app icon: Baby Monkey holding a banana in the jungle" width="1254" height="1254" loading="lazy"><span class="status">Closed test submitted</span></div>
+      <div class="card-copy"><p class="eyebrow">A timely helping hand</p><h3>MonkeyRilla</h3><p>Roam a wide jungle, collect bananas and call on Fast, Climber or Ninja. Forty seasonal stages are taking shape in our newest development playtest.</p><a class="text-link" href="/monkeyrilla/">Explore MonkeyRilla <span aria-hidden="true">→</span></a><p><a href="https://play.google.com/apps/testing/com.darrilla.monkeyrilla">Android closed testing</a> · Review pending</p><p class="card-meta">Jungle gathering · Android / invited TestFlight</p></div>
     </article>
   </div>
 </section>
