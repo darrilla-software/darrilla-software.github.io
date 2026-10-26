@@ -6,7 +6,7 @@ image: /assets/images/monkeyrilla-icon.png
 ---
 
 <div class="product-intro">
-  <div><span class="status">In development</span><h2>A jungle full<br>of possibilities.</h2><p>Guide Baby Monkey through a wide jungle, scoop up bananas and call on a growing crew when the route needs a little extra speed, climbing or a dash.</p><a class="text-link" href="/monkeyrilla/support/">Meet the mechanics <span aria-hidden="true">→</span></a></div>
+  <div><span class="status">Closed test submitted</span><h2>A jungle full<br>of possibilities.</h2><p>Guide Baby Monkey through a wide jungle, scoop up bananas and call on a growing crew when the route needs a little extra speed, climbing or a dash.</p><p><a class="button" href="https://play.google.com/apps/testing/com.darrilla.monkeyrilla">Android closed testing</a></p><a class="text-link" href="/monkeyrilla/support/">Meet the mechanics <span aria-hidden="true">→</span></a></div>
   <img src="/assets/images/monkeyrilla-icon.png" alt="MonkeyRilla app icon: smiling Baby Monkey holding a banana in a sunlit jungle" width="1254" height="1254">
 </div>
 
@@ -43,11 +43,17 @@ without an account, ads or purchases.
 
 The icon above is the game's Baby Monkey artwork, not a gameplay screenshot.
 
-## Follow MonkeyRilla
+## Test MonkeyRilla
 
-MonkeyRilla is **not yet offered as a Google Play or App Store download** on this
-site. These pages are here ahead of release; the current build is a development
-playtest, and features may change. A public release date has not been announced.
+[MonkeyRilla Android closed testing](https://play.google.com/apps/testing/com.darrilla.monkeyrilla)
+is for invited Google accounts. The first release, **0.1.0 (2)**, has been
+submitted for review; installation becomes available after Google approval.
+[How to join and send feedback](/testing/).
+
+iPhone and iPad testing uses personal TestFlight invitations. The first external
+beta is waiting for Apple’s review; invited internal testers have been added.
+There is no public TestFlight enrollment link. A public store release date has
+not been announced, and features may change during testing.
 
 Questions or feedback? [Email Darrilla](mailto:darrilla@gmail.com?subject=MonkeyRilla).
 Other games are available through our [testing links](/testing/).
