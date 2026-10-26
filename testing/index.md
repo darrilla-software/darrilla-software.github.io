@@ -1,7 +1,7 @@
 ---
 title: Test Darrilla games
 category: Testing
-description: Join the Google Play closed tests for ArrowZilla, Darrilla Chess Clock and FuzzRilla.
+description: Join the Google Play closed tests for ArrowZilla, Darrilla Chess Clock, FuzzRilla and MonkeyRilla.
 ---
 
 Help us improve the games with real play and honest feedback. Android closed
@@ -14,6 +14,7 @@ you automatically, and sharing the link does not add an account to the test.
   <section><h2>ArrowZilla</h2><p>Clear winding arrows, reveal pictures and take on the Daily puzzles.</p><a class="button" href="https://play.google.com/apps/testing/com.darrilla.arrowzilla">Join ArrowZilla testing</a><p><a href="/arrowzilla/support/">Help and feedback</a> · <a href="/arrowzilla/privacy/">Privacy</a></p></section>
   <section><h2>Darrilla Chess Clock</h2><p>Try clock updates beside your real chess board. The public app remains available separately.</p><a class="button" href="https://play.google.com/apps/testing/com.dburns.chess_clock">Join Chess Clock testing</a><p><a href="/chess-clock/support/">Help and feedback</a> · <a href="/chess-clock/privacy/">Privacy</a></p></section>
   <section><h2>FuzzRilla</h2><p>Slide the crew through a 100-level jungle chapter with drums, ice and Lightning.</p><a class="button" href="https://play.google.com/apps/testing/com.darrilla.fuzzrilla">Join FuzzRilla testing</a><p><a href="/fuzzrilla/support/">Help and feedback</a> · <a href="/fuzzrilla/privacy/">Privacy</a></p></section>
+  <section><h2>MonkeyRilla</h2><p>Gather bananas across forty seasonal jungles. The first closed-test release has been submitted; access starts after Google approval.</p><a class="button" href="https://play.google.com/apps/testing/com.darrilla.monkeyrilla">MonkeyRilla Android testing</a><p><a href="/monkeyrilla/support/">Help and feedback</a> · <a href="/monkeyrilla/privacy/">Privacy</a></p></section>
 </div>
 
 ## How to join
@@ -46,12 +47,10 @@ were confusing. ArrowZilla tester builds use Google demo ads; FuzzRilla has no a
 
 ## iPhone and iPad
 
-ArrowZilla and FuzzRilla testing uses invited TestFlight access. Contact us about
+ArrowZilla, FuzzRilla and MonkeyRilla testing uses invited TestFlight access. Contact us about
 an invitation; there is no public TestFlight enrollment link on this site.
 [Darrilla Chess Clock](/chess-clock/) also has a public App Store listing.
 
-## What about MonkeyRilla?
-
-[MonkeyRilla](/monkeyrilla/) is in development. Its pages explain the current
-gathering game and provide support and privacy information ahead of release.
-A Google Play or TestFlight invitation link has not been published here yet.
+MonkeyRilla’s first external TestFlight build is waiting for Apple’s beta review.
+Existing invited internal testers can use their personal TestFlight invitation.
+A personal invitation is not a public enrollment link.
