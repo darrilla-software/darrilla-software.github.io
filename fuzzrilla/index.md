@@ -6,7 +6,7 @@ image: /assets/images/fuzzrilla-icon.webp
 ---
 
 <div class="product-intro">
-  <div><span class="status">Beta testing</span><h2>Little gorillas.<br>Big ruckus.</h2><p>Slide a whole row or column to bring matching Rillas together. Chase collection goals, set off chest-beating chain reactions, and make every move count.</p><div class="actions"><a class="button" href="https://play.google.com/apps/testing/com.darrilla.fuzzrilla">Join Android testing</a><a class="text-link" href="/fuzzrilla/support/">How to play <span aria-hidden="true">→</span></a></div></div>
+  <div><span class="status">Closed testing</span><h2>Little gorillas.<br>Big ruckus.</h2><p>Slide a whole row or column to bring matching Rillas together. Chase collection goals, set off chest-beating chain reactions, and make every move count.</p><div class="actions"><a class="button" href="https://play.google.com/apps/testing/com.darrilla.fuzzrilla">Join Android testing</a><a class="text-link" href="/fuzzrilla/support/">How to play <span aria-hidden="true">→</span></a></div></div>
   <img src="/assets/images/fuzzrilla-icon.webp" alt="Sunny, a grinning golden gorilla with a sunburst tuft, in FuzzRilla artwork" width="512" height="512">
 </div>
 

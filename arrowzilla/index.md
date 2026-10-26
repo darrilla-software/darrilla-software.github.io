@@ -5,7 +5,7 @@ description: Clear the arrows. Discover the picture. A puzzle that reveals itsel
 ---
 
 <div class="product-intro">
-  <div><span class="status">Join the beta</span><h2>There's a picture<br>waiting inside.</h2><p>Winding arrows cover the board. Find one with a clear way out, tap it, and watch it fly away. On picture levels, each departure uncovers more of the artwork beneath.</p><a class="text-link" href="https://play.google.com/apps/testing/com.darrilla.arrowzilla">Join Android testing <span aria-hidden="true">→</span></a></div>
+  <div><span class="status">Closed testing</span><h2>There's a picture<br>waiting inside.</h2><p>Winding arrows cover the board. Find one with a clear way out, tap it, and watch it fly away. On picture levels, each departure uncovers more of the artwork beneath.</p><a class="text-link" href="https://play.google.com/apps/testing/com.darrilla.arrowzilla">Join Android testing <span aria-hidden="true">→</span></a></div>
   <img src="/assets/images/arrowzilla-red-panda.webp" alt="Red panda artwork used in an ArrowZilla picture level" width="600" height="1067">
 </div>
 
