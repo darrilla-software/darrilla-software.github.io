@@ -94,9 +94,15 @@ routine troubleshooting step.
 
 ## Where can I download it?
 
-No MonkeyRilla store testing or public download link is published on this site
-yet. Follow the [overview](/monkeyrilla/) for availability. The other games'
-Android closed tests are listed on [Test Darrilla games](/testing/).
+Use the [MonkeyRilla Android testing link](https://play.google.com/apps/testing/com.darrilla.monkeyrilla)
+with the invited Google account. The first release is submitted for review;
+installation is available after approval. See the [enrollment steps](/testing/).
+For iPhone/iPad, use your personal TestFlight invitation. External beta access
+also depends on Apple’s review. No public store release is available yet.
+
+A Google Play build may not update an earlier locally installed test build with
+a different signing key. If an update is incompatible, contact us; **do not
+uninstall or clear data**, because that can remove progress.
 
 ---
 
