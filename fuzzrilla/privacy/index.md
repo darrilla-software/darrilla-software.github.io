@@ -8,7 +8,8 @@ image: /assets/images/fuzzrilla-icon.webp
 Last updated: October 25, 2026
 
 FuzzRilla is a puzzle game made by Darrilla Software. This policy describes
-the current Android and iPhone/iPad beta builds, version **0.4.6 (17)**.
+the current Android and iPhone/iPad beta game, including its 100-level jungle
+chapter. Feature updates may arrive at different times for testers.
 
 ## Playing the game
 
@@ -29,7 +30,8 @@ contact us using the address below about information sent directly to support.
 
 ## Beta testing
 
-Apple TestFlight and Google Play manage beta invitations, app distribution and
+[Google Play closed testing](https://play.google.com/apps/testing/com.darrilla.fuzzrilla)
+requires an eligible Google account. Apple TestFlight and Google Play manage beta invitations, app distribution and
 their own platform services. They may process tester accounts, installation,
 usage or diagnostic information under their own terms and privacy policies.
 If you choose to send beta feedback or crash reports through those services,
@@ -42,7 +44,7 @@ The game stores your current level, board arrangement, collection totals,
 moves, score, powers, frozen Rillas, overgrown spaces and refill state locally
 so you can resume a settled turn. It also stores per-level best scores and
 lifetime collection, move, chain, power and ground-clearing statistics locally.
-Sound, motion and appearance preferences are also stored locally. Saves and
+Sound, music where available, motion and appearance preferences are also stored locally. Saves and
 best scores from the earlier endless prototype are retained separately on
 upgrade; they are not uploaded to Darrilla Software.
 
@@ -57,6 +59,13 @@ to send, such as a device model, screenshot or bug description. We use it to
 answer your request and investigate the issue, and retain it as needed for
 those purposes. Please do not send passwords, payment details or other sensitive
 information. Contact us about information you have sent directly to us.
+
+## This website
+
+These pages do not add an analytics tracker. GitHub Pages hosts the website and
+logs visitor IP addresses for security purposes. See
+[GitHub's Pages data-collection information](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection)
+and [privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 ## Future versions
 

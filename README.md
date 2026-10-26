@@ -7,7 +7,9 @@ GitHub Pages from the `main` branch of this repository.
 - `/about/`: studio, mascot, and replayable publisher intro.
 - `/chess-clock/`: overview, with `/support/` and `/privacy/` underneath.
 - `/arrowzilla/`: overview, with matching support and privacy pages.
-- `/fuzzrilla/`: development overview, support/how-to-play and current-build privacy.
+- `/fuzzrilla/`: beta overview, support/how-to-play and current-build privacy.
+- `/monkeyrilla/`: development overview, support/how-to-play and privacy ahead of release.
+- `/testing/`: Google Play closed-test links and enrollment help for the three released/testable games.
 
 The site uses a shared Jekyll layout and CSS, with no external fonts, trackers,
 or client-side framework. Existing Chess Clock URLs and Google verification
@@ -26,19 +28,54 @@ Open http://127.0.0.1:4000. For a static build, use
 ## Assets and copy
 
 The mascot and Chess Clock icon come from the chess-clock app. The red panda
-illustrations and publisher intro come from ArrowZilla. Website copies are
-optimized for size; the app repositories remain the source for the originals.
+illustrations and publisher intro come from ArrowZilla. The app repositories remain the source for the originals; existing website
+exports use optimized images. MonkeyRilla uses its original approved icon.
 The ArrowZilla illustrations are labeled as artwork rather than screenshots.
 FuzzRilla's optimized icon and crew sheet come from `games/fuzzrilla/` in the
 `darrilla-games` repository. The sheet is labeled as character artwork, not a
-gameplay screenshot. Its pages describe Android and iPhone/iPad tester update
-0.4.6 (17): 100 finite levels, directional/double drums, Boom, anchored ice, 8×8 boards and Lightning.
-The game has no ads/purchases/analytics and no public store download. Tester
-availability depends on store processing/review.
+gameplay screenshot. Its pages describe the 100-level Android/iPhone/iPad beta
+chapter. Tester menus
+can differ while updates roll out, so help mentions current and earlier labels.
+FuzzRilla has no ads/purchases/analytics. ArrowZilla pages cover campaign and Daily
+puzzles without freezing an expanding level count. Its iOS copy advertises invited
+TestFlight access, not an unverified public download or a stale review status.
 
-ArrowZilla links to its Google Play closed test and labels the public iOS listing
-as awaiting approval. Update availability when Apple approves the release.
-Its privacy page covers development test ads and planned AdMob consent and
-purchase features. Keep it aligned with the released app. `app-ads.txt` contains
+Chess Clock retains its public store links and adds the separate Android closed
+test. All three games link to their closed test from overview/support/privacy and
+the testing hub. Google account eligibility is still required. No MonkeyRilla
+testing URL is invented.
+
+MonkeyRilla's icon is copied byte-for-byte from
+`darrilla-games/games/monkeyrilla/Assets/MonkeyRilla/Art/monkeyrilla-icon.png`.
+Its source GUID `384bf57b631f94496a04e651038f6c03` is assigned to the game's
+default and Android icons; the build configuration applies that same asset.
+The pages describe the current 40-level gathering candidate, not the inactive
+campaign or a completed store release. Preserve the approved supplied art.
+
+ArrowZilla's privacy page distinguishes tester demo ads from SDK data handling,
+local saves, platform reports and optional purchases. Keep each policy aligned
+with the distributed app; a demo ad is not a no-data guarantee. `app-ads.txt` contains
 the AdMob authorized-seller entry; store listings must link this developer site
 before AdMob can verify it.
+
+
+## Validation and release boundaries
+
+On October 25, 2026, `bundle exec jekyll build --strict_front_matter` passed.
+The generated site has 18 HTML pages with checked internal links, image sources,
+anchors, nine game-specific closed-test links and all new sitemap entries.
+Browser checks covered the desktop homepage, MonkeyRilla at 390px and Testing at
+320px, without horizontal overflow or missing images.
+
+The MonkeyRilla Android APK was inspected with `aapt2`: its application icon is
+an adaptive icon with the configured Baby Monkey artwork in the packaged
+background. Default/Android Unity icon assignment and the identical website
+source were verified; no app rebuild or store change is needed for this page update.
+
+The three Google test links reach Google sign-in; this does not verify a specific
+account's eligibility or enroll anyone. The user confirmed closed testing is
+available. Chess Clock's public Apple listing was checked. ArrowZilla's public
+iOS download could not be verified, so the copy only advertises invited testing.
+Website publication uses `main` at the repository root, with `darrilla.com` as
+the GitHub Pages domain. Source/status changes here do not submit app releases,
+change tester lists, authorize live ads or establish device acceptance.

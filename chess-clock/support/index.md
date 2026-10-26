@@ -4,6 +4,14 @@ category: Chess Clock
 description: Help with time controls, Pro purchases, and games at your board.
 ---
 
+## Android closed testing
+
+[Join the Chess Clock closed test](https://play.google.com/apps/testing/com.dburns.chess_clock)
+with your invited Google account. Use that same account in Google Play to install
+or update. If access is denied, follow the [testing guide](/testing/) before
+changing your installation. Do not uninstall or clear data to solve eligibility.
+Check a tester build's timing, audio and interruption handling before a match.
+
 ## Contact Darrilla
 
 For questions, bug reports, or feedback, email
@@ -35,6 +43,12 @@ you see. Do not send payment details or passwords.
 
 An active game pauses when the app loses focus. Review the in-app interruption
 protection guide and your device's notification settings before your next match.
+
+## Are my settings kept when I update?
+
+Time controls and preferences are stored on your device. Use the store's normal
+update flow to retain them. Clearing app data or uninstalling may remove local
+settings. Pro restoration is separate: use the same store account that purchased it.
 
 ## Can I skip the welcome animation?
 

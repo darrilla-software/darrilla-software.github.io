@@ -5,9 +5,12 @@ description: How to slide the crew, complete collection goals, and send FuzzRill
 image: /assets/images/fuzzrilla-icon.webp
 ---
 
-FuzzRilla is in beta testing. This page describes Android and iPhone/iPad version
-**0.4.6 (17)**, the 100-level tester update. Store processing and review may
-delay availability for invited testers.
+FuzzRilla is in beta testing. This page describes the 100-level jungle chapter
+on Android and iPhone/iPad. Features can arrive in different tester updates.
+
+[Join Android closed testing](https://play.google.com/apps/testing/com.darrilla.fuzzrilla)
+with your invited Google account. The [testing guide](/testing/) covers enrollment
+and account issues; iPhone/iPad testing uses TestFlight invitations.
 
 ## Contact Darrilla
 
@@ -135,18 +138,21 @@ scores are retained separately when upgrading; they do not become campaign progr
 
 ## Can I reduce motion or change the appearance?
 
-Open **?** for settings. **Calm motion** stops the forest sway and reduces match
-effects. Choose **Light**, **Dark** or **Follow phone** for the interface;
+Open **Pause → Settings**; earlier tester builds use **?**. **Calm motion** stops
+the forest sway and reduces match effects. Choose **Light**, **Dark** or **Follow phone** for the interface;
 the forest and character artwork keep their normal brightness. Follow phone
-currently reads Android system appearance; use Light/Dark on iPhone/iPad. Sound can be
-turned off there too.
+currently reads Android system appearance; use Light/Dark on iPhone/iPad. Sound
+controls are there too. Updates with an Audio screen offer separate
+Music and Sound effects toggles, volumes and Test sound; the puzzle stays paused
+while you adjust them.
 
 Board characters stay still until matching. In **Meet the Crew**, select a
 character with a small portrait, then tap its large picture to animate it once.
 
 ## Can testers jump to another level?
 
-Tester builds include **? → Test levels…**, also available through **My progress**.
+Tester builds include **Test levels…** in How to play (or **?** in earlier
+updates), also available through **My progress**.
 Enter 1–100 and choose **Go to level**. This starts a fresh attempt using the
 current rules and replaces the attempt in progress; overall scores, lifetime
 statistics and settings stay. Skipped levels receive no credit. Cancel leaves
@@ -154,8 +160,10 @@ the attempt alone. Restarting from level 1 is a separate, confirmed reset.
 
 ## Where can I download it?
 
-There is no public store download yet. See the
-[FuzzRilla overview](/fuzzrilla/) for current availability, or email us about testing.
+[Join the Google Play closed test](https://play.google.com/apps/testing/com.darrilla.fuzzrilla)
+with your invited Google account. iPhone/iPad testers use TestFlight invitations.
+See the [FuzzRilla overview](/fuzzrilla/) and [testing guide](/testing/) for access.
+The closed test is separate from a public store release.
 
 ---
 
