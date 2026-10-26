@@ -8,8 +8,8 @@ image: /assets/images/monkeyrilla-icon.png
 Last updated: October 25, 2026
 
 MonkeyRilla is a jungle game made by Darrilla Software. This policy describes
-the current development banana-gathering game. It is published ahead of store
-release and does not imply that a public download or store test is available.
+the current banana-gathering test game. Closed testing has been submitted to
+Google Play and Apple TestFlight; this is not a public store release.
 
 ## Playing the game
 
@@ -36,12 +36,12 @@ the app can remove saves, preferences and local recovery copies.
 
 ## Testing and app stores
 
-Current local playtests do not use a game login. If a future build is distributed
-through Google Play or Apple TestFlight, those platforms handle tester accounts,
+The game does not use a game login. Google Play and Apple TestFlight handle tester accounts,
 installation and their own diagnostics under their own policies. If you choose
 to send feedback or crash reports through a platform, Darrilla Software may
 receive the report to investigate the problem. Any such testing link will be
-listed on this site when available.
+listed on this site when available. The [Android closed-test link](https://play.google.com/apps/testing/com.darrilla.monkeyrilla)
+requires an invited account and an approved active release. See [testing help](/testing/).
 
 ## Children and families
 
