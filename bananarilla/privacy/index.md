@@ -33,9 +33,11 @@ can remove local saves and settings.
 
 ## Testing and diagnostics
 
-Current testing uses local Android installations. If future versions become
-available through Google Play or Apple TestFlight, those platforms handle their
-own accounts, installation and platform diagnostics under their policies.
+Local Android testing continues while closed Google Play and Apple TestFlight
+access is prepared for invited testers. The first releases have not been
+submitted for review. The [Android test page](https://play.google.com/apps/testing/com.darrilla.bananarilla)
+will provide access only after approval and release. These platforms handle
+their own accounts, installation and platform diagnostics under their policies.
 Reports you choose to share through a testing platform may be made available
 to Darrilla Software to investigate problems.
 

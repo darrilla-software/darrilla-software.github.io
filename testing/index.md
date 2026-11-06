@@ -21,9 +21,12 @@ you automatically, and sharing the link does not add an account to the test.
 
 [Meet BananaRilla: Jungle Defense](/bananarilla/), our jungle defense game with
 thirty rounds in Banana Grove Commons and a separate Workshop for trying teams.
-It is being playtested locally on Android. A public testing or download link
-has not been announced; the closed-test enrollment steps below apply to the
-four games listed above. [Email us about future BananaRilla testing](mailto:darrilla@gmail.com?subject=BananaRilla%20testing).
+[BananaRilla Android closed-test page](https://play.google.com/apps/testing/com.darrilla.bananarilla)
+is configured for the same tester lists as ArrowZilla. Its first release has not
+been submitted for review; the link will provide downloads after approval and
+release. TestFlight is also being prepared for the matching ArrowZilla testers,
+with external beta review still pending submission. No public TestFlight link
+is available. [Email us about BananaRilla testing](mailto:darrilla@gmail.com?subject=BananaRilla%20testing).
 
 ## How to join
 

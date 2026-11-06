@@ -82,9 +82,16 @@ level content is incompatible with a newer version.
 
 ## Where can I download it?
 
-BananaRilla is currently being playtested locally on Android. No public download
-or public testing link is listed yet. Contact us about future testing; other
-Darrilla games have verified links on the [testing page](/testing/).
+The [Android closed-test page](https://play.google.com/apps/testing/com.darrilla.bananarilla)
+is configured for the invited ArrowZilla tester lists. The first release is
+being prepared and has not been submitted for review, so installation is not
+available yet. Once approved and released, use the invited Google account and
+follow the opt-in page's download link. [Enrollment help](/testing/).
+
+iPhone/iPad TestFlight setup is in progress for the matching ArrowZilla testers.
+External access will require Apple beta review, which has not been submitted.
+There is no public enrollment link. Keep existing saves when updating; contact
+us rather than uninstalling if an earlier local build has a different signer.
 
 ---
 

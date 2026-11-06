@@ -68,11 +68,18 @@ on Calm motion. Sound can be switched off separately. Optional instructions can
 be skipped and reopened, and Adventure has its own saved resume on your device.
 The current game works offline, with no ads, purchases or player account.
 
-## Follow BananaRilla
+## Test BananaRilla
 
-BananaRilla: Jungle Defense is in development, with local Android playtesting.
-There is no public download or store release date announced here yet. We'll add
-verified download and testing links when they're available.
+[BananaRilla Android closed testing](https://play.google.com/apps/testing/com.darrilla.bananarilla)
+is being prepared for the same invited Google accounts as ArrowZilla. The first
+release has not been submitted for review, so downloads are not available yet.
+Once the test is approved and released, sign in with your invited account,
+choose **Become a tester**, and follow Google's install link.
+
+For iPhone and iPad, TestFlight setup is in progress for the ArrowZilla tester
+group. External beta access requires Apple's review; it has not been submitted.
+Use your personal invitation when available. There is no public TestFlight link
+or public store release date. See the [testing guide](/testing/).
 
 Questions or interested in future testing?
 [Email Darrilla](mailto:darrilla@gmail.com?subject=BananaRilla%20Jungle%20Defense).

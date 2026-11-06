@@ -38,7 +38,7 @@ home: true
     </article>
     <article class="game-card">
       <div class="game-art bananarilla-art"><img src="/assets/images/bananarilla-icon.webp" alt="BananaRilla artwork: a Rilla with golden gloves guarding bananas" width="640" height="640" loading="lazy"><span class="status">In development</span></div>
-      <div class="card-copy"><p class="eyebrow">Guard the grove</p><h3>BananaRilla: Jungle Defense</h3><p>Place your Rillas, grow their powers and catch the thieves before they escape with your bananas. One winding jungle trail. Thirty rounds to defend it.</p><a class="text-link" href="/bananarilla/">Explore BananaRilla <span aria-hidden="true">→</span></a><p class="card-meta">Jungle defense · Automatic powers · Adventure &amp; Workshop</p></div>
+      <div class="card-copy"><p class="eyebrow">Guard the grove</p><h3>BananaRilla: Jungle Defense</h3><p>Place your Rillas, grow their powers and catch the thieves before they escape with your bananas. One winding jungle trail. Thirty rounds to defend it.</p><a class="text-link" href="/bananarilla/">Explore BananaRilla <span aria-hidden="true">→</span></a><p><a href="https://play.google.com/apps/testing/com.darrilla.bananarilla">Android closed test</a> · Preparing first release</p><p class="card-meta">Jungle defense · Automatic powers · Adventure &amp; Workshop</p></div>
     </article>
   </div>
 </section>

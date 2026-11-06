@@ -110,3 +110,8 @@ Validation: `bundle exec jekyll build --strict_front_matter` passed; all 21
 rendered HTML pages passed local link, image-source and anchor checks, including
 the three new sitemap URLs. Browser checks covered the desktop overview/support,
 the homepage at 390px and BananaRilla at 320px/390px without horizontal overflow.
+
+The Play Console now displays BananaRilla's Android opt-in URL. Overview,
+support/privacy, homepage and Testing pages include it with an explicit
+pre-review availability notice. No tester emails or personal TestFlight links
+are published. The website link does not claim the draft is downloadable.
