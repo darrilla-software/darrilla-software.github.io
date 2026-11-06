@@ -88,8 +88,9 @@ being prepared and has not been submitted for review, so installation is not
 available yet. Once approved and released, use the invited Google account and
 follow the opt-in page's download link. [Enrollment help](/testing/).
 
-iPhone/iPad TestFlight setup is in progress for the matching ArrowZilla testers.
-External access will require Apple beta review, which has not been submitted.
+iPhone/iPad build 0.1.0 (34) is testing with the matching ArrowZilla internal
+TestFlight group. Use your personal invitation. External access requires Apple
+beta review, which has not been submitted.
 There is no public enrollment link. Keep existing saves when updating; contact
 us rather than uninstalling if an earlier local build has a different signer.
 

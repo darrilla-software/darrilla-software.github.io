@@ -115,3 +115,7 @@ The Play Console now displays BananaRilla's Android opt-in URL. Overview,
 support/privacy, homepage and Testing pages include it with an explicit
 pre-review availability notice. No tester emails or personal TestFlight links
 are published. The website link does not claim the draft is downloadable.
+
+BananaRilla build 0.1.0 (34) is now Testing in the internal TestFlight group,
+with all 11 ArrowZilla members and invitations verified. The matching external
+tester is configured; external beta review remains unsubmitted.

@@ -24,8 +24,9 @@ thirty rounds in Banana Grove Commons and a separate Workshop for trying teams.
 [BananaRilla Android closed-test page](https://play.google.com/apps/testing/com.darrilla.bananarilla)
 is configured for the same tester lists as ArrowZilla. Its first release has not
 been submitted for review; the link will provide downloads after approval and
-release. TestFlight is also being prepared for the matching ArrowZilla testers,
-with external beta review still pending submission. No public TestFlight link
+release. iOS build 0.1.0 (34) is testing with the matching ArrowZilla internal
+TestFlight group, with invitations issued. External beta review remains
+unsubmitted. No public TestFlight link
 is available. [Email us about BananaRilla testing](mailto:darrilla@gmail.com?subject=BananaRilla%20testing).
 
 ## How to join

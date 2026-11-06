@@ -76,9 +76,9 @@ release has not been submitted for review, so downloads are not available yet.
 Once the test is approved and released, sign in with your invited account,
 choose **Become a tester**, and follow Google's install link.
 
-For iPhone and iPad, TestFlight setup is in progress for the ArrowZilla tester
-group. External beta access requires Apple's review; it has not been submitted.
-Use your personal invitation when available. There is no public TestFlight link
+For iPhone and iPad, build 0.1.0 (34) is available to the matching ArrowZilla
+internal TestFlight group; invitations have been issued. External beta access
+requires Apple's review; it has not been submitted. Use your personal invitation. There is no public TestFlight link
 or public store release date. See the [testing guide](/testing/).
 
 Questions or interested in future testing?
