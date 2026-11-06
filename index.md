@@ -7,7 +7,7 @@ home: true
   <div class="hero-copy">
     <p class="eyebrow">Small studio. Big personality.</p>
     <h1>Games with a<br>little character.</h1>
-    <p class="lead">A clock for your next chess match. A puzzle with a picture waiting inside. A jungle crew to bring together. Bananas to gather beyond the next bend. Welcome to Darrilla Software.</p>
+    <p class="lead">A clock for your next chess match. A puzzle with a picture waiting inside. A jungle crew to bring together. Bananas to gather beyond the next bend, and a grove to defend. Welcome to Darrilla Software.</p>
     <div class="actions"><a class="button" href="#games">Meet the games <span aria-hidden="true">↗</span></a><a class="text-link" href="/about/">Meet Darrilla <span aria-hidden="true">→</span></a></div>
   </div>
   <div class="mascot-stage">
@@ -35,6 +35,10 @@ home: true
     <article class="game-card">
       <div class="game-art monkeyrilla-art"><img src="/assets/images/monkeyrilla-icon.png" alt="MonkeyRilla app icon: Baby Monkey holding a banana in the jungle" width="1254" height="1254" loading="lazy"><span class="status">Closed test submitted</span></div>
       <div class="card-copy"><p class="eyebrow">A timely helping hand</p><h3>MonkeyRilla</h3><p>Roam a wide jungle, collect bananas and call on Fast, Climber or Ninja. Forty seasonal stages are taking shape in our newest development playtest.</p><a class="text-link" href="/monkeyrilla/">Explore MonkeyRilla <span aria-hidden="true">→</span></a><p><a href="https://play.google.com/apps/testing/com.darrilla.monkeyrilla">Android closed testing</a> · Review pending</p><p class="card-meta">Jungle gathering · Android / invited TestFlight</p></div>
+    </article>
+    <article class="game-card">
+      <div class="game-art bananarilla-art"><img src="/assets/images/bananarilla-icon.webp" alt="BananaRilla artwork: a Rilla with golden gloves guarding bananas" width="640" height="640" loading="lazy"><span class="status">In development</span></div>
+      <div class="card-copy"><p class="eyebrow">Guard the grove</p><h3>BananaRilla: Jungle Defense</h3><p>Place your Rillas, grow their powers and catch the thieves before they escape with your bananas. One winding jungle trail. Thirty rounds to defend it.</p><a class="text-link" href="/bananarilla/">Explore BananaRilla <span aria-hidden="true">→</span></a><p class="card-meta">Jungle defense · Automatic powers · Adventure &amp; Workshop</p></div>
     </article>
   </div>
 </section>

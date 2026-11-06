@@ -9,6 +9,7 @@ GitHub Pages from the `main` branch of this repository.
 - `/arrowzilla/`: overview, with matching support and privacy pages.
 - `/fuzzrilla/`: beta overview, support/how-to-play and current-build privacy.
 - `/monkeyrilla/`: test overview, support/how-to-play, privacy and Android enrollment.
+- `/bananarilla/`: Jungle Defense introduction, development screenshots, support and privacy.
 - `/testing/`: Google Play closed-test links and enrollment help for all four games.
 
 The site uses a shared Jekyll layout and CSS, with no external fonts, trackers,
@@ -83,3 +84,29 @@ iOS download could not be verified, so the copy only advertises invited testing.
 Website publication uses `main` at the repository root, with `darrilla.com` as
 the GitHub Pages domain. Source/status changes here do not submit app releases,
 change tester lists, authorize live ads or establish device acceptance.
+
+## BananaRilla: Jungle Defense
+
+Added November 6, 2026. The overview describes the current thirty-round Commons
+Adventure and separate Workshop, with no public store or testing link claimed.
+The game remains in development; website publication does not release the app.
+Gameplay descriptions were checked against game-local Commons documentation and
+current runtime controls. Privacy copy reflects the current package manifest and
+disabled Unity connected-service settings.
+
+Optimized artwork comes from `/Volumes/External/darrilla-games/games/bananarilla/`:
+
+- `Assets/BananaRilla/Art/bananarilla-icon.png` → `bananarilla-icon.webp`
+  (640×640, WebP quality 88).
+- `output/commons/w4/thirty-rounds/final-eight.png` → `bananarilla-commons.webp`.
+- `output/commons/w4/thirty-rounds/legal-drag.png` → `bananarilla-upgrades.webp`.
+
+The screenshots are actual Android development setup screens from November 6,
+not combat footage or evidence of final gameplay acceptance. Screenshot exports
+retain the full image, resized to 1600px wide at WebP quality 88. Originals and
+game saves were not modified. The icon is identified as promotional artwork.
+
+Validation: `bundle exec jekyll build --strict_front_matter` passed; all 21
+rendered HTML pages passed local link, image-source and anchor checks, including
+the three new sitemap URLs. Browser checks covered the desktop overview/support,
+the homepage at 390px and BananaRilla at 320px/390px without horizontal overflow.

@@ -17,6 +17,14 @@ you automatically, and sharing the link does not add an account to the test.
   <section><h2>MonkeyRilla</h2><p>Gather bananas across forty seasonal jungles. The first closed-test release has been submitted; access starts after Google approval.</p><a class="button" href="https://play.google.com/apps/testing/com.darrilla.monkeyrilla">MonkeyRilla Android testing</a><p><a href="/monkeyrilla/support/">Help and feedback</a> · <a href="/monkeyrilla/privacy/">Privacy</a></p></section>
 </div>
 
+## BananaRilla: in development
+
+[Meet BananaRilla: Jungle Defense](/bananarilla/), our jungle defense game with
+thirty rounds in Banana Grove Commons and a separate Workshop for trying teams.
+It is being playtested locally on Android. A public testing or download link
+has not been announced; the closed-test enrollment steps below apply to the
+four games listed above. [Email us about future BananaRilla testing](mailto:darrilla@gmail.com?subject=BananaRilla%20testing).
+
 ## How to join
 
 1. Open your game's link while signed in with the **Google account invited to

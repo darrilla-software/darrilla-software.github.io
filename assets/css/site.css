@@ -15,7 +15,7 @@ p { margin: 0 0 1.2rem; }
 .site-header { display: flex; align-items: center; justify-content: space-between; gap: 24px; min-height: 104px; }
 .wordmark { display: flex; align-items: center; gap: 10px; color: var(--ink); text-decoration: none; font-weight: 800; font-size: 1.55rem; line-height: 1; letter-spacing: -.04em; }
 .wordmark small { display: block; margin-top: 7px; font-size: .62rem; letter-spacing: .26em; }
-nav { display: flex; gap: 28px; flex-wrap: wrap; }
+nav { display: flex; justify-content: flex-end; gap: 12px 22px; flex-wrap: wrap; }
 nav a { color: var(--ink); text-decoration: none; font-size: .95rem; }
 nav a:hover, nav .active, nav [aria-current] { text-decoration: underline; }
 .skip-link { position: absolute; top: -100px; left: 16px; z-index: 2; background: white; padding: 12px; }
@@ -47,6 +47,8 @@ nav a:hover, nav .active, nav [aria-current] { text-decoration: underline; }
 .clock-art img { height: 275px; width: 275px; border-radius: 24px; }
 .puzzle-art { background: #eff3e9; }
 .puzzle-art img { width: 180px; height: 300px; object-fit: contain; }
+.bananarilla-art { background: radial-gradient(circle at center, #f5e7a8, #accb86); }
+.bananarilla-art img { width: 230px; height: 230px; border-radius: 24px; }
 .monkeyrilla-art { background: #d8e6c4; }
 .monkeyrilla-art img { width: 230px; height: 230px; border-radius: 24px; }
 .testing-note { margin-bottom: 40px; max-width: 760px; }
@@ -76,6 +78,8 @@ figure { margin: 0; }
 .art-gallery figure { padding: 20px; background: white; border: 1px solid var(--line); border-radius: 16px; }
 .art-gallery img { height: 360px; width: 100%; object-fit: contain; }
 figcaption { color: var(--muted); font-size: .85rem; margin-top: 16px; }
+.game-screenshot { margin: 32px 0; }
+.game-screenshot img { width: 100%; border-radius: 16px; }
 .crew-sheet { max-width: 760px; }
 .brand-preview { display: grid; grid-template-columns: 320px 1fr; gap: 48px; align-items: center; }
 .brand-preview iframe { display: block; border: 0; width: 320px; aspect-ratio: 9 / 16; height: auto; border-radius: 18px; background: #9bd8ed; }
@@ -90,7 +94,7 @@ figcaption { color: var(--muted); font-size: .85rem; margin-top: 16px; }
 @media (max-width: 760px) {
   .site-header, main, .site-footer { width: calc(100% - 40px); }
   .site-header { flex-direction: column; align-items: flex-start; padding: 24px 0; gap: 24px; }
-  nav { gap: 24px; }
+  nav { justify-content: flex-start; gap: 16px 24px; }
   .hero { grid-template-columns: 1fr; gap: 28px; padding: 12px 0 48px; }
   .mascot-stage { width: min(100%, 400px); margin: auto; }
   .section-heading { display: block; }.section-heading > p { max-width: none; }
